@@ -84,8 +84,9 @@ MoodNet is a sentiment analysis project that classifies text data (tweets) into 
 ---
 
 ## 📸 Screenshots
-(Add your graph<img width="1470" height="956" alt="Screenshot 2026-04-07 at 9 55 02 PM" src="https://github.com/user-attachments/assets/9c948908-8752-4ad6-b403-c40cfce5c308" />
-s here)
+
+<img width="969" height="632" alt="Screenshot 2026-04-07 at 9 58 11 PM" src="https://github.com/user-attachments/assets/ac343354-0569-46fe-bbe4-cc67c131d3b2" />
+
 <img width="1306" height="704" alt="Screenshot 2026-04-07 at 9 55 19 PM" src="https://github.com/user-attachments/assets/7378971f-5b0b-454e-8772-020020c8055a" />
 
 <img width="476" height="455" alt="confusion " src="https://github.com/user-attachments/assets/1e7db1e7-b1fa-4376-a39c-8f8d73fd933a" />
