@@ -60,7 +60,7 @@ MoodNet is a sentiment analysis project that classifies social media text (tweet
 | Logistic Regression | ~72% |
 | LSTM | ~75% |
 
-👉 LSTM performs better due to its ability to understand context and word sequence.
+* LSTM performs better due to its ability to understand context and word sequence.
 
 ---
 
@@ -118,5 +118,5 @@ The model demonstrates balanced performance in predicting both positive and nega
 
 ---
 
-## 🔗 GitHub
-(Add your repository link here)
+## GitHub
+https://github.com/sarnika09-cell
